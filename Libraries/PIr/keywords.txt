@@ -1,0 +1,3 @@
+Pir	KEYWORD1
+setPin	KEYWORD2
+isMotion	KEYWORD2

@@ -1,0 +1,5 @@
+Photocell	KEYOWRD1
+setPin	KEYWORD2
+getIntensity1024	KEYWORD2
+getIntensity255	KEYWORD2
+getIntensity	KEYWORD2

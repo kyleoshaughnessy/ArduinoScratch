@@ -1,0 +1,5 @@
+Tmp36	KEYWORD1
+setPin	KEYWORD2
+setPinVoltage	KEYWORD2
+getTempC	KEYWORD2
+getTempF	KEYWORD2
